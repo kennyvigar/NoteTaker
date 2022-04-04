@@ -1,6 +1,11 @@
 # Note Keeper
+<img width="1525" alt="Screen Shot 2022-04-03 at 11 03 15 PM" src="https://user-images.githubusercontent.com/23610226/161477195-28eb7a98-60b3-499a-b426-7dcf0415d06f.png">
+
+Inspired by grinding bootcamps, coffee and React App curiousity, 
+
 
 ####
+
 
 # Getting Started with Create React App
 
