@@ -1,0 +1,6 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 320px 320px 320px 320px;
+  margin: auto;
+  width: 90%;
+}
